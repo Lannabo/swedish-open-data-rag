@@ -1,0 +1,12 @@
+model_cache/
+data/
+*.db
+*.faiss
+__pycache__/
+*.pt
+*.bin
+*.h5
+*.pkl
+*.model
+venv/
+
